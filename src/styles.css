@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+@import "src/assets/css/bootstrap.min-ar.css";
+@import "src/assets/css/bootstrap_rtl.css";
+@import "src/assets/css/style-ar.css";
+@import "src/assets/css/icons-ar.css";
+
+/* @import url('https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css'); */
